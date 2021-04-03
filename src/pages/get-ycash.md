@@ -4,7 +4,7 @@ title: Get Ycash
 
 # Get Ycash
 
-Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Ycasn!
+Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Ycash!
 
 ## Sell a Gift Card for Ycash
 
