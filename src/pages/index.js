@@ -15,7 +15,7 @@ const features = [
     description: (
       <>
         95% of newly issued coins go directly to users via the permissionless,
-        free-market mining process, open to anyone in the world with a GPU and an
+        free-market mining process, a proccess open to anyone in the world with a GPU and an
         internet connection.
       </>
     ),
@@ -36,7 +36,8 @@ const features = [
     imageUrl: 'img/fun_pink.svg',
     description: (
       <>
-        Borderless, inflation-free cash is empowering and fun! 
+        Borderless, inflation-free cash is empowering and fun! You will love
+        earning, saving, and spending your Ycash.
       </>
     ),
   },

@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Ycash is the future of cash',
   tagline: 'Ycash is a digital currency for empowering local communities around the globe',
-  url: 'https://y.cash',
+  url: 'https://yecdev.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -130,8 +130,28 @@ module.exports = {
               to: '/fact-sheet',
             },
             {
-              label: 'Pay With Ycash',
-              to: '/get-ycash',
+              label: 'Blockchain Explorers',
+              to: '/explorers',
+            },
+            {
+              label: 'Shielded Transactions',
+              to: '/shielded-transactions',
+            },
+            {
+              label: 'Mine Ycash',
+              to: '/mining',
+            },
+            {
+              label: 'Wry (Wrapped Ycash)',
+              to: '/wry',
+            },
+            {
+              label: 'Developers',
+              to: '/dev',
+            },
+            {
+              label: 'Contributors',
+              to: '/contributors',
             },
           ],
         },
