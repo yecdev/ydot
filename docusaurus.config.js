@@ -10,6 +10,11 @@ module.exports = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      defaultMode: "dark",
+      disableSwitch: false,
+      respectPrefersColorScheme: true,
+    },
     navbar: {
       title: 'Ycash',
       logo: {
@@ -196,7 +201,7 @@ module.exports = {
   ],
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh', 'ru', 'fr'],
+    locales: ['en', /*'zh', 'ru', 'fr'*/],
     localeConfigs: {
       en: {
         label: 'English',
