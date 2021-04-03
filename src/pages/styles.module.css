@@ -48,6 +48,10 @@
   padding-bottom: 40px;
 }
 
+.heroProjectSubTagline {
+  color: #fff;
+}
+
 .heroTitleTextHtml b {
   color: var(--ifm-color-primary);
 }

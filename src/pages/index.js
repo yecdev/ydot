@@ -85,7 +85,7 @@ export default function Home() {
                 }}
               />
             </h1>
-            <h2>
+            <h2 className={styles.heroProjectSubTagline}>
               Ycash is a digital currency focused on empowering local and online communities around the globe.
             </h2>
             <div className={styles.indexCtas}>

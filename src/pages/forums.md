@@ -40,4 +40,7 @@ to a permanent ban.*
 
 ### Reddit
 
-Operated by the Ycash Foundation, the official YcashTalk subreddit is a sma
+Operated by the Ycash Foundation, the official YcashTalk subreddit is small
+but growing. It is a great place to ask questions about Ycash.
+
+[Visit the r/ycashtalk subreddit](https://www.reddit.com/r/ycashtalk)
