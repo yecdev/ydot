@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Ycash is the future of cash',
+  tagline: 'Ycash is a digital currency for empowering local communities around the globe',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -11,23 +11,85 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Ycash',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/ycash_logo_001_256x256.png',
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          activeBasePath: 'use',
+          label: 'Use Ycash',
           position: 'left',
+          items: [
+            {
+              label: "Wallets",
+              to: "/wallets",
+            },
+            {
+              label: "Get Ycash",
+              to: "/get-ycash"
+            },
+            {
+              label: "Pay With Ycash",
+              to: "/pay-with-ycash"
+            },
+          ],
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          activeBasePath: 'learn',
+          label: 'Learn',
+          position: 'left',
+          items: [
+            {
+              label: "What is Ycash?",
+              to: "/what-is-ycash",
+            },
+            {
+              label: "Fact Sheet",
+              to: "/fact-sheet",
+            },
+            {
+              label: "Blockchain Explorers",
+              to: "/explorers",
+            },
+            {
+              label: "Shielded Transactions",
+              to: "/shielded-transactions"
+            },
+            {
+              label: "Mine Ycash",
+              to: "/mining"
+            },
+            {
+              label: "Wry (Wrapped Ycash)",
+              to: "/wry"
+            },
+            {
+              label: "Developers",
+              to: "/dev"
+            },
+            {
+              label: "Contributors",
+              to: "/contributors"
+            }
+          ],
+        },
+        {
+          activeBasePath: 'social',
+          label: 'Social',
+          position: 'left',
+          items: [
+            {
+              label: "Forums",
+              to: "/forums"
+            },
+            {
+              label: "News",
+              to: "/news"
+            },
+
+          ],
         },
       ],
     },
@@ -35,32 +97,57 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Use Ycash',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/',
+              label: 'Wallets',
+              to: '/wallets',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
+              label: 'Get Ycash',
+              to: '/get-ycash',
+            },
+            {
+              label: 'Pay With Ycash',
+              to: '/get-ycash',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Learn',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'What is Ycash?',
+              to: '/what-is-ycash',
+            },
+            {
+              label: 'Fact Sheet',
+              to: '/fact-sheet',
+            },
+            {
+              label: 'Pay With Ycash',
+              to: '/get-ycash',
+            },
+          ],
+        },
+        {
+          title: 'Social',
+          items: [
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/YcashFoundation',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discord.gg/Yz8rW7P',
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Telgram',
+              href: 'https://t.me/YcashFoundation',
+            },
+            {
+              label: 'Reddit',
+              href: 'https://reddit.com/r/ycashtalk',
             },
           ],
         },
@@ -69,16 +156,20 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              to: 'blog',
+              to: 'https://ycash.medium.com',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'YecDev on GitHub',
+              href: 'https://github.com/yecdev',
             },
+            {
+              label: 'Ycash Foundation on GitHub',
+              href: 'https://github.com/ycashfoundation',
+            }
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ycash Foundation`,
     },
   },
   presets: [
@@ -103,4 +194,23 @@ module.exports = {
       },
     ],
   ],
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'zh', 'ru', 'fr'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+      },
+      zh: {
+        label: '简体中文',
+        direction: 'ltr'
+      },
+      fr: {
+        label: 'Français',
+        direction: 'ltr',
+      },
+    },
+  },
+  plugins: ['@docusaurus/plugin-ideal-image'],
 };

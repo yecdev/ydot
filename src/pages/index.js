@@ -1,39 +1,42 @@
 import React from 'react';
 import clsx from 'clsx';
+import Image from '@theme/IdealImage';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
+import Translate, {translate} from '@docusaurus/Translate';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Fair',
+    imageUrl: 'img/fair_pink.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        95% of newly issued coins go directly to users via the permissionless,
+        free-market mining process, open to anyone in the world with a GPU and an
+        internet connection.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Fast',
+    imageUrl: 'img/fast_pink.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        No need for trips to the bank or ATM. Your Ycash is always at your
+        fingertips, 24 hours a day, 365 days a year. Send Ycash to anyone on the
+        planet within minutes.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Fun',
+    imageUrl: 'img/fun_pink.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Borderless, inflation-free cash is empowering and fun! 
       </>
     ),
   },
@@ -61,23 +64,57 @@ export default function Home() {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
-        <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
-              to={useBaseUrl('docs/')}>
-              Get Started
-            </Link>
+      <main>
+        <div className={styles.hero}>
+          <div className={styles.heroInner}>
+            <h1 className={styles.heroProjectTagline}>
+              <img
+                className={styles.heroLogo}
+                src={useBaseUrl('/img/Ycash_accepted_here_transparent.svg')}
+              />
+              <span
+                className={styles.heroTitleTextHtml}
+                dangerouslySetInnerHTML={{
+                  __html: translate({
+                    id: 'homepage.hero.title',
+                    message:
+                      'Ycash is the future of cash',
+                    description:
+                      'Home page hero title, can contain simple html tags',
+                  }),
+                }}
+              />
+            </h1>
+            <h2>
+              Ycash is a digital currency focused on empowering local and online communities around the globe.
+            </h2>
+            <div className={styles.indexCtas}>
+              <Link className="button button--primary" to="/wallets">
+                <Translate>Get a Ycash Wallet</Translate>
+              </Link>
+              <Link
+                className="button button--info"
+                to="/get-ycash">
+                <Translate>Buy Ycash</Translate>
+              </Link>
+            </div>
           </div>
         </div>
-      </header>
-      <main>
+        <div className={clsx(styles.announcement, styles.announcementDark)}>
+          <div className={styles.announcementInner}>
+            <Translate
+              values={{
+                wryLink: (
+                  <Link to="/wry">
+                    <Translate>Wry</Translate>
+                  </Link>
+                ),
+              }}>
+              {`Ycash is now DeFi-enabled! Introducing {wryLink}`}
+            </Translate>
+            .
+          </div>
+        </div>
         {features && features.length > 0 && (
           <section className={styles.features}>
             <div className="container">
