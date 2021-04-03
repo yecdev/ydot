@@ -2,13 +2,13 @@
 module.exports = {
   title: 'Ycash is the future of cash',
   tagline: 'Ycash is a digital currency for empowering local communities around the globe',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://y.cash',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'yecdev', // Usually your GitHub org/user name.
+  projectName: 'ydot', // Usually your repo name.
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
