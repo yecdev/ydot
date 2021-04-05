@@ -33,6 +33,26 @@ the global Ycash peer-to-peer network.
 New contributors are always warmly welcomed! Check out the 
 [Ycash Foundation repositories on GitHub](https://www.github.com/ycashfoundation).
 
+<br/>
+
+## Software for Developers
+
+### YecShell
+
+YecShell is library for building Ycash light clients. The library is bundled with a command line interface.
+
+**[Download YecShell from GitHub](https://github.com/yecdev/yecshell/releases)**
+
+### ycashd
+
+ycashd is the full node implementation that powers the Ycash blockchain and Ycash peer-to-peer netword.
+
+**[Download YecShell from GitHub](https://github.com/ycashfoundation/ycash/releases)**
+
+
+
+
+
 
 
 

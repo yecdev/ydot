@@ -1,5 +1,5 @@
 ---
-title: Ycash Wallets
+title: Wallets
 ---
 
 # Ycash Wallets
@@ -8,7 +8,7 @@ In order to use Ycash, you need a Ycash wallet, and there are many great wallets
 
 <br/>
 
-## Ycash Foundation Wallets
+## Ycash-Only Wallets
 
 ### YecLite
 
@@ -42,7 +42,7 @@ You can also store Ycash on a piece of paper!
 
 <br/>
 
-## Third Party Wallets
+## Multi-Asset Wallets
 
 [Guarda Wallet](https://guarda.com) (Multi-asset wallet for iPhone, Android, desktop, and the web).
 
@@ -56,3 +56,9 @@ and Android)
 [SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone, Android, and the web)
 
 [Atomic Wallet](https://atomicwallet.io/) (Multi-asset wallet for Android and desktop)
+
+<br/>
+
+## Developer Wallets
+
+For wallets designed to support Ycash-related software development, visit the [developer page](/dev).

@@ -1,5 +1,5 @@
 ---
-title: Ycash Fact Sheet
+title: Fact Sheet
 ---
 
 # Fact Sheet
@@ -23,3 +23,5 @@ Key facts about Ycash, as compared to Bitcoin.
 | Current Block Reward | 6.25 YEC | 6.25 BTC |
 | % Block Reward Allocated to Miners | 95% | 100% |
 | % Block Reward Allocated to Nonprofit | 5% | 0% |
+| Unencrypted Transactions | Yes | Yes |
+| Encrypted Transactions | Yes | No |

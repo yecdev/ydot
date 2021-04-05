@@ -1,3 +1,7 @@
+---
+title: Mining
+---
+
 # Mining
 
 ## Getting Started

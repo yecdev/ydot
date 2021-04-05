@@ -1,6 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Ycash is the future of cash',
+  title: 'Ycash',
   tagline: 'Ycash is a digital currency for empowering local communities around the globe',
   url: 'https://yecdev.github.io',
   baseUrl: '/',
@@ -114,7 +114,7 @@ module.exports = {
             },
             {
               label: 'Pay With Ycash',
-              to: '/get-ycash',
+              to: '/pay-with-ycash',
             },
           ],
         },
