@@ -26,7 +26,7 @@ their free Ycash merchandize giveaways and check out their [BINGO-themed Ycash F
 [Website](https://www.yecpages.com) | [Twitter](https://twitter.com/yecpages)
 
 YecPages is the premier online directory for all things Ycash. In the directory,
-you'll find curated lists of Ycash wallets, merchant-sho w-=
+you'll find curated lists of Ycash wallets, merchants that accept Ycash, and more.
 
 
 ### Concision Systems
