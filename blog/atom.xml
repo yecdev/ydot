@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yecdev.github.io/blog</id>
-    <title>Ycash is the future of cash Blog</title>
+    <title>Ycash Blog</title>
     <updated>2019-05-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yecdev.github.io/blog"/>
-    <subtitle>Ycash is the future of cash Blog</subtitle>
+    <subtitle>Ycash Blog</subtitle>
     <icon>https://yecdev.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
