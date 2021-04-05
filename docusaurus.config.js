@@ -167,7 +167,7 @@ module.exports = {
               href: 'https://discord.gg/Yz8rW7P',
             },
             {
-              label: 'Telgram',
+              label: 'Telegram',
               href: 'https://t.me/YcashFoundation',
             },
             {
