@@ -77,4 +77,4 @@ related-interests include atomic swaps and decentralized finance.
 
 #### @ZebbuFund
 
-@ZebbuFund is a software developer. His projects include [YecRoulette](https://www.yecroulette.xyz),the first ever Ycash application.
+@ZebbuFund is a software developer. His projects include [YecRoulette](https://www.yecroulette.xyz), the first ever Ycash application.
