@@ -10,7 +10,7 @@ title: Contributors
 [Website](https://www.ycash.xyz) | [Twitter](https://twtter.com/YcashFoundation)
 
 The Ycash Foundation is a nonprofit corporation incorporated in the State of Delaware.
-It's mission is develop and promote the Ycash currency for the public good. To that end,
+It's mission is to develop and promote the Ycash currency for the public good. To that end,
 the Foundation develops Ycash-related software and makes it free for the public to download and use.
 
 
@@ -72,7 +72,7 @@ articles, including ["Money is Shielded Cryptocurrency, and nothing else"](https
 #### Jacob Nulty
 
 Jacob is a Ycash mining enthusiast with a passion for helping new Ycash
-miners and promoting a robust Ycash mining ecosystem. In addtion to mining, his Ycash
+miners and promoting a robust Ycash mining ecosystem. In addition to mining, his Ycash
 related-interests include atomic swaps and decentralized finance.
 
 #### @ZebbuFund

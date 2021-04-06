@@ -9,8 +9,10 @@ Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Yca
 ## Sell a Gift Card for Ycash
 
 If you are new to cryptocurrencies, selling a gift card in exchange for
-Ycash is a good way to obtain some Ycash. The Private Gift uses Ycash to
-purchase your Amazon and Target gift cards.
+Ycash is a good way to obtain some Ycash. Private Gift uses Ycash to
+purchase your Amazon and Target gift cards. Follow
+[@Private_Gift on Twitter](https://twitter.com/Private_Gift) for the latest
+offers.
 
 ## Buy Ycash from a Cryptocurrency Exchange
 
@@ -20,11 +22,11 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [Hotbit](https://www.hotbit.io/) ([YEC/USDT](https://www.hotbit.io/exchange?symbol=YEC_USDT))
 
-* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), and [YEC/ETH](https://safe.trade/trading/yeceth))
+* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), [YEC/ETH](https://safe.trade/trading/yeceth), and [YEC/DGB](https://safe.trade/trading/yecdgb))
 
-* [Citex](https://www.citex.co.kr) ([YEC/BTC](https://www.citex.co.kr/#/trade/YEC_BTC), [YEC/ETH](https://www.citex.co.kr/#/trade/YEC_ETH), and [YEC/USDT](https://www.citex.co.kr/#/trade/YEC_USDT))
+* [Citex](https://www.citex.co.kr) ([YEC/USDT](https://www.citex.co.kr/#/trade/YEC_USDT), [YEC/ETH](https://www.citex.co.kr/#/trade/YEC_ETH), and [YEC/BTC](https://www.citex.co.kr/#/trade/YEC_BTC))
 
-* [PancakeSwap](https://exchange.pancakeswap.finance/#/swap) (WRY/BUSD, WRY/BNB, WRY/CAKE)
+* [PancakeSwap](https://exchange.pancakeswap.finance/#/swap) (WRY/BUSD, WRY/BNB, and WRY/CAKE)
     - Search for the WRY contract address for Binance Smart Chain: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6)
 
 ### Market Information
