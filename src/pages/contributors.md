@@ -52,8 +52,8 @@ and a graduate law degree from UC Berkeley. He is a member of the California Sta
 #### @ChileBob
 
 @ChileBob is a software developer and an independent advisor to the Ycash Foundation.
-His Ycash-related software projects include [StratumPool](http://github.com/chilebob/stratumpool), 
-[YStream](http://github.com/chilebob/ystream), and [Zonkey](http://github.com/chilebob/zonkey).
+His Ycash-related software projects include [StratumPool](http://github.com/ChileBob/StratumPool), 
+[Yak](http://github.com/ChileBob/Yak), and [Zonkey](http://github.com/ChileBob/Zonkey).
 
 #### @Yodler
 
