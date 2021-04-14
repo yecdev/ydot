@@ -1,6 +1,14 @@
-# Website
+# y.cash website
 
 This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+
+## Requirements
+
+- Install [Node.js](https://nodejs.org/) version 12.13.0 or above.
+- Install [Yarn 1](https://yarnpkg.com/en/) version 1.5 or above. (Do not use Yarn 2.)
+
+Unless specified otherwise, the commands below assume that you are running them from the top-level `ydot` directory (the top-level of this
+repoistory).
 
 ## Installation
 

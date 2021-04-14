@@ -66,7 +66,7 @@ His Ycash-related software projects include [Ycash Bingo](https://ycash.bingo), 
 
 Eric is the creator of [YecPages](https://www.yecpages.com), the premier online
 directory for all things Ycash. He is passionate about making Ycash easier to
-use and increasing merchant adoption. Eric has authored several Ycash-related
+use. Eric has authored several Ycash-related
 articles, including ["Money is Shielded Cryptocurrency, and nothing else"](https://yecpages.medium.com/money-is-shielded-cryptocurrency-and-nothing-else-bbedc9540578).
 
 #### Jacob Nulty
