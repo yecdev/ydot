@@ -36,11 +36,11 @@ Search for the address of the Wry contract deployed on BSC:
 
 The Ycash Foundation maintains a permissionless, flow-restricted pipe for users to move between YEC and WRY on a limited basis. Use of the pipe currently requires a wallet that can perform shielded transactions, like [YecLite](https://github.com/yecdev/yeclite/releases) (recommended) or YecWallet.
 
-**Important Note: Currently, the pipe only support moving from YEC to WRY-on-BSC. Moving from WRY-on-BSC to YEC will be added by March 21, 2021. Ethereum support will be added by April 15.**
+Important Note: Currently, the pipe only support moving from YEC to WRY-on-BSC and from WRY-on-BSC to YEC. Ethereum support will be added in advance of the launch of Uniswap 3 on Optimism, slated for the summer 2021. (Optimism is a Layer 2 Ethereum solution.).
 
 ### Cap of $1,000 on Aggregate Flow During Last 24 Hours
 
-Pursuant to the Ycash Foundation's interpretation of relevant United States laws, the aggregate flow through the pipe within a 24 hour period cannot exceed $1,000. Note that this is *not* a per-user cap; rather, it is a cap on aggregate use. For example, if one user sends $1,000 worth of YEC into the pipe, then the pipe cannot be used by any other user for the next 24 hours.
+Pursuant to the Ycash Foundation's interpretation of relevant United States laws, the aggregate flow through the pipe within a 24 hour period cannot exceed $1,000. Note that this is *not* a per-user cap; rather, it is a cap on aggregate use. For example, if one user sends $1,000 worth of coins into the pipe, then the pipe cannot be used by any other user for the next 24 hours.
 
 Because of this cap, your ability to use this permissionless pipe to move from WRY back to YEC may be significantly constrained, especially if the price of YEC goes up. The Ycash Foundation is actively exploring other mechanisms for moving between WRY and YEC, including WRY/YEC exchange pairs and atomic swaps.
 
@@ -53,7 +53,7 @@ Fees apply and are subject to change. Before sending YEC or WRY into the pipe, p
 Current Fees:
 - YEC/Wry-on-BSC Sign-up Fee: 1 YEC
 - YEC to WRY-on-BSC: free (planned 1% fee waived as a promotion)
-- WRY-on-BSC to YEC: 1% paid in YEC
+- WRY-on-BSC to YEC: 1% paid in YEC, minimum fee of 1 YEC
 
 ### Instructions For Signing Up
 
@@ -86,7 +86,7 @@ In order to use the pipe to move between YEC and WRY-on-BSC, there is a one-time
 
 4. If a problem arises, send a memo to your YEC IN address. **DO NOT SHARE YOUR YEC IN ADDRESS WITH ANYONE.** We will assume that any memo sent to your YEC IN address is coming from you.
 
-### Converting From YEC to WRY-on-BSC
+### Converting Between YEC and WRY-on-BSC
 
 1. Check the current available capacity of the pipe here:
 
@@ -105,12 +105,12 @@ In order to use the pipe to move between YEC and WRY-on-BSC, there is a one-time
     
     *Important note: The JSON output above is only an example. To get the current statistics, please click on the link provided above.*
     
-    The `available_coin_capacity` is the maximum number of YEC you can send to your YEC IN address given the pipe's 24-hour threshold of $1,000.
+    The `available_coin_capacity` is the maximum number of coins you can send to your `YEC IN` or `WRY IN` address given the pipe's 24-hour threshold of $1,000.
     
-2. Send between 50 YEC to `available_coin_capacity` YEC to your `YEC IN` address. Do not send less than 50 YEC; if you do, your YEC will be treated as a donation to fund the operation of the pipe. Do not send more than the number of coins specified by `available coin capacity`; if you do, you're YEC will be held until there is time to manually process a refund to you.
+2. Send between 50 to `available_coin_capacity` coins to your `YEC IN` or `WRY IN` address. Do not send less than 50 coins; if you do, your YEC will be treated as a donation to fund the operation of the pipe. Do not send more than the number of coins specified by `available coin capacity`; if you do, you're coins will be held until there is time to manually process a refund to you.
 
-3. Wait 4 confirmations on the Ycash blockchain.
+3. Wait 4 confirmations on the Ycash blockchain or BSC blochain.
 
-4. After 4 confirmations, your WRY will be sent to your `WRY OUT` address (minus any fees). (As a promotion, currently there are no fees. Each time before using the pipe, check this page for the current fees in effect.)
+4. After 4 confirmations, your coins will be sent to your `YEC OUT` or `WRY OUT` address (minus any fees). (Each time before using the pipe, check this page for the current fees in effect.)
 
 5. Enjoy using Wry!
