@@ -36,18 +36,9 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 [Wry](/wry) is a token on Binance Smart Chain (and coming soon to Ethereum as well). 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on PancakeSwap and then convert it to YEC via the [Wry Pipe](wry#the-wry-pipe) service provided by the Ycash Foundation (limits and fees apply).
 
-Currently, there are three Wry pools on PancakeSwap:
+[Buy Wry on PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4f0c54c06bc401d02df557fd65ee30f622155cf6)
 
-* [WRY/BUSD](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x4f0c54c06bc401d02df557fd65ee30f622155cf6)
-
-* [WRY/BNB](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c&outputCurrency=0x4f0c54c06bc401d02df557fd65ee30f622155cf6)
-
-* [WRY/CAKE](https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82&outputCurrency=0x4f0c54c06bc401d02df557fd65ee30f622155cf6)
-
-But note that you can also buy Wry with _any_ of the hundreds of BEP-20 tokens trading on PancakeSwap (including wrapped versions of USDC and USDT). All you have to do is search for the WRY contract address on Binance Smart Chain: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6).
-
-
-
+Wry contract address: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6).
 
 ## Mine Ycash
 
