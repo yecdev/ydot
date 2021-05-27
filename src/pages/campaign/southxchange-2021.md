@@ -10,13 +10,13 @@ title: Ycash on SouthXchange
 
 
 
-Based in Argentina, [SouthXchange](https://main.southxchange.com/) is a up-and-coming cryptocurrency exchange with a global user base. We have a great opportunity to get Ycash and Wry listed on SouthXchange, but we need your help.
+Based in Argentina, [SouthXchange](https://main.southxchange.com/) is a up-and-coming cryptocurrency exchange with a global user base. The exchange supports the Lightning Network for Bitcoin withdrawals and deposits, making it easy to purchase Ycash using Bitcoin. We have a great opportunity to get Ycash and Wry listed on SouthXchange, but we need your help.
 
-SouthXchange uses voting to decide which coins to list. The voting is powered by SouthXchange's native exchange token, SouthXchange Coin (SXCC). There is a weekly contest, and the coin with the most votes wins a listing (minimum of 250,000 votes). Each vote consumes one SXCC, and a user can vote multiple times. (For example, a user can spend 1,000 SXCC and cast 1,000 votes for the coin of their choice.) Currently, SXCC trades at a price of less than 2 cents.
+SouthXchange uses voting to decide which coins to list. The voting is powered by SouthXchange's native SouthXchange Coin (SXCC). Each week, the coin with the most votes wins a listing (minimum of 250,000 votes). Each vote consumes one SXCC, and a user can vote multiple times. (For example, a user can spend 1,000 SXCC and cast 1,000 votes for the coin of their choice.) Currently, SXCC trades at a price of less than 2 cents.
 
-A small group of anonymous Ycash uers have generously pledge to match all votes cast for Ycash. In aggregate, these matching donors have pledged to match each vote cast for Ycash with **four additional votes**! Because of this generousity, if we raise a mere $1,000 to apply towards the voting process, we are very likely to win a listing.
+A small group of anonymous Ycash users have generously pledged to match all votes cast for Ycash. In aggregate, these matching donors have pledged to match each vote cast for Ycash with **four additional votes**! Because of this generousity, if we raise a mere $1,000 to apply towards the voting process, we are very likely to win a listing.
 
-Fellow Ycash users, I ask for your help. There are three ways you can contribute to this effort:
+Fellow Ycash users, we ask for your help. There are three ways you can contribute to this effort:
 
 1. Open up a [SouthXchange](https://main.southxchange.com/) account, purchase a few SXCC, and use them to cast a few votes for Ycash. The voting site is here:
 
@@ -32,7 +32,7 @@ Fellow Ycash users, I ask for your help. There are three ways you can contribute
 
 **Ycash:** `s1gPv9oB7JEvo9DdBeiiYYCXNZCrmSHsDJs` or `ys1mqcm09dh4rwum5jrm3fru0klugl5cqf2de50faqcw6u5wzxt69nzyql4u8ff4gws6uaew9dnwks`
 
-**Bitcoin:** `1KWK7sCtNenqSZVafUr3mazcu6aFsX6ggi`
+**Bitcoin:** `bc1qjuzjh3vht8kduwdeppghcu6ndmhhag8glu9cl4`
 
 **Ethereum or any ERC-20 token:** `0x5173Ae5eBCf3963bF94b374C1221B765e0eA6e8d`
 
