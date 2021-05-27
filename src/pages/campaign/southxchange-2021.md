@@ -40,7 +40,7 @@ Fellow Ycash users, I ask for your help. There are three ways you can contribute
 
 **Zcash:** `t1RpXkMU3WTa8ZDtW2QPMjwMv9UoreM6xfA` or `zs178qeh6w8dh5vvvs0df02u2cd7p7kgv8fy832k3hggypu55ud5aqf6he7dgwweux7h6h4krfdvpv`
 
-**Bitcion Cash:** `bitcoincash:qququrz4v92duczz40exqpxe4jzje5nkjvyll8xv4e`
+**Bitcoin Cash:** `bitcoincash:qququrz4v92duczz40exqpxe4jzje5nkjvyll8xv4e`
 
 **Digibyte:** `DDCBxPizHUHBV6gQAT9Xc59ZDn4uqmKG38`
 
