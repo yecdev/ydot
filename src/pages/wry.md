@@ -32,6 +32,12 @@ Search for the address of the Wry contract deployed on BSC:
 
 `0x4f0c54c06bc401d02df557fd65ee30f622155cf6`
 
+## Exchange Swaps
+
+You can swap between YEC and WRY on SouthXchange:
+
+https://main.southxchange.com/Market/Book/WRY/YEC
+
 ## The Wry Pipe
 
 The Ycash Foundation maintains a permissionless, flow-restricted pipe for users to move between YEC and WRY on a limited basis. Use of the pipe currently requires a wallet that can perform shielded transactions, like [YecLite](https://github.com/yecdev/yeclite/releases) (recommended) or YecWallet.

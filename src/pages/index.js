@@ -106,8 +106,8 @@ export default function Home() {
             <Translate
               values={{
                 southxchangeLink: (
-                  <Link to="/campaign/southxchange-2021">
-                    <Translate>Help Us List Ycash &amp; Wry on SouthXchange</Translate>
+                  <Link to="https://main.southxchange.com/">
+                    <Translate>Ycash &amp; Wry have been listed on SouthXchange!</Translate>
                   </Link>
                 ),
                 wryLink: (
