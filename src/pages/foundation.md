@@ -48,7 +48,7 @@ or
 
 ### BTC
 
-`bc1qvkdr8r2vdg069d0eywypy3m0t084p3q5nm2s2p`
+[`bc1qvkdr8r2vdg069d0eywypy3m0t084p3q5nm2s2p`](https://blockchair.com/bitcoin/address/bc1qvkdr8r2vdg069d0eywypy3m0t084p3q5nm2s2p)
 
 ### ETH / ERC-20 tokens
 
