@@ -36,7 +36,7 @@ your donation goes towards our mission! See the donation addresses below. Thank 
 
 ### YEC
 
-`s1P6ZAeyvokGh3MSxN3bLRk9r5EWdSd34Az`
+[`s1P6ZAeyvokGh3MSxN3bLRk9r5EWdSd34Az`](https://yecblockexplorer.com/address/s1P6ZAeyvokGh3MSxN3bLRk9r5EWdSd34Az)
 
 or
 
@@ -44,7 +44,7 @@ or
 
 ### WRY-on-BSC
 
-`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`
+[`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`](https://bscscan.com/address/0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85)
 
 ### BTC
 
@@ -52,15 +52,15 @@ or
 
 ### ETH / ERC-20 tokens
 
-`0x120D677BA30Ea470790debFCAE618Af82814b596`
+[`0x120D677BA30Ea470790debFCAE618Af82814b596`](https://etherscan.io/address/0x120D677BA30Ea470790debFCAE618Af82814b596)
 
 ### BSC / BEP-20 tokens
 
-`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`
+[`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`](https://bscscan.com/address/0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85)
 
 ### ZEC
 
-`t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F`
+[`t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F`](https://explorer.zcha.in/accounts/t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F)
 
 or
 
@@ -68,11 +68,11 @@ or
 
 ### BCH
 
-`qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0`
+[`qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0`](https://blockchair.com/bitcoin-cash/address/qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0)
 
 ### DGB
 
-`D8JKVhmXCKuFsuSfYhgp6L2jdvyanXHPbd`
+[`D8JKVhmXCKuFsuSfYhgp6L2jdvyanXHPbd`](https://digiexplorer.info/address/D8JKVhmXCKuFsuSfYhgp6L2jdvyanXHPbd)
 
 ## Contact
 
