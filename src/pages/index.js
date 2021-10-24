@@ -15,7 +15,7 @@ const features = [
     description: (
       <>
         95% of newly issued coins go directly to users via the permissionless,
-        free-market mining process, a proccess open to anyone in the world with a GPU and an
+        free-market mining process, a process open to anyone in the world with a GPU and an
         internet connection.
       </>
     ),
@@ -105,9 +105,9 @@ export default function Home() {
           <div className={styles.announcementInner}>
             <Translate
               values={{
-                southxchangeLink: (
-                  <Link to="https://main.southxchange.com/">
-                    <Translate>Ycash &amp; Wry have been listed on SouthXchange!</Translate>
+                announcementLink: (
+                  <Link to="/wallets#ywallet">
+                    <Translate>YWallet for Android & iOS is here!</Translate>
                   </Link>
                 ),
                 wryLink: (
@@ -116,7 +116,7 @@ export default function Home() {
                   </Link>
                 ),
               }}>
-              {`New: {southxchangeLink}`}
+              {`New: {announcementLink}`}
             </Translate>
           </div>
         </div>

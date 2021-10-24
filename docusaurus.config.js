@@ -77,7 +77,11 @@ module.exports = {
             {
               label: "Contributors",
               to: "/contributors"
-            }
+            },
+            {
+              label: "Foundation",
+              to: "/foundation"
+            },
           ],
         },
         {

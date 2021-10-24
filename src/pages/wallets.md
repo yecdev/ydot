@@ -8,7 +8,15 @@ In order to use Ycash, you need a Ycash wallet, and there are many great wallets
 
 <br/>
 
-## Ycash-Only Wallets
+## Shielded Mobile Wallets
+
+### YWallet
+
+YWallet is fastest and most advanced Ycash wallet on the planet, featuring Warp Sync and shielded transactions!
+
+**[Download YWallet](https://hhanh00.github.io/zwallet/)**
+
+## Shielded Desktop Wallets
 
 ### YecLite
 
