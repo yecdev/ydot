@@ -42,7 +42,7 @@ or
 
 `ys1z37kemxfj3qmzr7w9yt29jku7wu3hectwm8smfsycm0ksp7ejnpqcagqql2m8fct5kky6knqa6z`
 
-### WRY (BSC)
+### WRY-on-BSC
 
 `0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`
 
@@ -58,7 +58,7 @@ or
 
 `0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`
 
-### Zcash (ZEC)
+### ZEC
 
 `t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F`
 
@@ -66,7 +66,7 @@ or
 
 `zs1mymn2ar4wldwns5v7t239g6s0al3hpp40tlh5k64mn93ymfcuayqquz9jaxy32d33ch96e7usjy`
 
-### Bitcoin Cash (BCH)
+### BCH
 
 `qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0`
 
