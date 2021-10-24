@@ -29,7 +29,7 @@ a strong commitment to making substantial volunteer contributions to Ycash in th
 
 We enable collaboration amongst Ycash users by operating the most trusted [forums](/forums) in the world of Ycash.
 
-## Donation addresses
+## Donate
 
 Because we are a 100% volunteer-based organization, 100% of
 your donation goes towards our mission! See the donation addresses below. Thank you for your support!
