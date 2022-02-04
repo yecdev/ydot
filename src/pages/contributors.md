@@ -72,8 +72,8 @@ articles, including ["Money is Shielded Cryptocurrency, and nothing else"](https
 #### Jacob Nulty
 
 Jacob is a Ycash mining enthusiast with a passion for helping new Ycash
-miners and promoting a robust Ycash mining ecosystem. In addition to mining, his Ycash
-related-interests include atomic swaps and decentralized finance.
+miners and promoting a robust Ycash mining ecosystem. In addition to mining, his Ycash-related interests include atomic swaps and decentralized finance.
+Ycash related projects include [ycash.jl](https://github.com/nultinator/ycash.jl) and [rosetta-ycash](https://github.com/nultinator/rosetta-ycash)
 
 #### @ZebbuFund
 
