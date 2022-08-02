@@ -107,7 +107,7 @@ export default function Home() {
               values={{
                 announcementLink: (
                   <Link to="/wallets#ywallet">
-                    <Translate>YWallet for Android & iOS is here!</Translate>
+                    <Translate>YWallet for Android, iOS, and desktop is here!</Translate>
                   </Link>
                 ),
                 wryLink: (

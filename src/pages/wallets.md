@@ -8,25 +8,15 @@ In order to use Ycash, you need a Ycash wallet, and there are many great wallets
 
 <br/>
 
-## Shielded Mobile Wallets
+## Shielded Wallets
 
 ### YWallet
 
 YWallet is fastest and most advanced Ycash wallet on the planet, featuring Warp Sync and shielded transactions!
 
-**[Download YWallet](https://hhanh00.github.io/zwallet/)**
+YWallet is now available for Android, iOS, and desktop!
 
-## Shielded Desktop Wallets
-
-### YecLite
-
-YecLite is a lightweight desktop wallet for MacOS, Linux, and Windows. YecLite allows you to use Ycash without having to download the Ycash blockchain.
-
-For most users, YecLite is the easiest way to enjoy the full power of the Ycash network.
-
-YecLite is developed by the yecdev team and vetted by the Ycash Foundation.
-
-**[Download YecLite from GitHub](https://github.com/yecdev/yeclite/releases)**
+**[Download YWallet](https://ywallet.app)**
 
 <br/>
 
@@ -56,6 +46,8 @@ You can also store Ycash on a piece of paper!
 
 [Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android)
 
+[Atomic Wallet](https://atomicwallet.io/) (Multi-asset wallet for Android and desktop)
+
 [Hebe Wallet](https://hebe.cc/) (Multi-asset wallet for iPhone, Android, and the web)
 
 [Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
@@ -63,7 +55,7 @@ and Android)
 
 [SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone, Android, and the web)
 
-[Atomic Wallet](https://atomicwallet.io/) (Multi-asset wallet for Android and desktop)
+
 
 <br/>
 

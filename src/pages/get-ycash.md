@@ -26,8 +26,6 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), [YEC/ETH](https://safe.trade/trading/yeceth), and [YEC/DGB](https://safe.trade/trading/yecdgb))
 
-* [Citex](https://www.citex.co.kr) ([YEC/USDT](https://www.citex.co.kr/#/trade/YEC_USDT), [YEC/ETH](https://www.citex.co.kr/#/trade/YEC_ETH), and [YEC/BTC](https://www.citex.co.kr/#/trade/YEC_BTC))
-
 ### Market Information
 
 [Ycash on CoinGecko](https://www.coingecko.com/en/coins/ycash)

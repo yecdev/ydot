@@ -17,7 +17,7 @@ salaries. Just pure devotion to Ycash.
 
 ### Provide vital services
 
-We provide services vital to Ycash users, like [Wry](/wry) and servers for mobile wallets to connect to. We make these services available to anyone in the world
+We provide services vital to Ycash users, like [Wry](/wry) and servers for mobile wallets to connect to. We make these services available free of charge to anyone in the world with an internet connection.
 
 ### Promote volunteerism
 
