@@ -46,7 +46,7 @@ YecShell is library for building Ycash light clients. The library is bundled wit
 
 ycashd is the full node implementation that powers the Ycash blockchain and Ycash peer-to-peer network.
 
-**[Download YecShell from GitHub](https://github.com/ycashfoundation/ycash/releases)**
+**[Download ycashd from GitHub](https://github.com/ycashfoundation/ycash/releases)**
 
 
 
