@@ -34,15 +34,21 @@ Search for the address of the Wry contract deployed on BSC:
 
 ## Exchange Swaps
 
-You can swap between YEC and WRY on SouthXchange:
+You can swap between YEC and WRY on SouthXchange and Xeggex:
 
 https://main.southxchange.com/Market/Book/WRY/YEC
 
+https://xeggex.com/market/WRY_YEC (trading pair)
+
+https://xeggex.com/pool/WRY_YEC (liquidity pool)
+
 ## The Wry Pipe
+
+_October 2022: Currently, the Wry Pipe is not opperational. To swap between YEC and WRY, please use the exchange swaps referenced immediately above._
 
 The Ycash Foundation maintains a permissionless, flow-restricted pipe for users to move between YEC and WRY on a limited basis. Use of the pipe currently requires a wallet that can perform shielded transactions, like [YecLite](https://github.com/yecdev/yeclite/releases) (recommended) or YecWallet.
 
-Important Note: Currently, the pipe only support moving from YEC to WRY-on-BSC and from WRY-on-BSC to YEC. Ethereum support will be added in advance of the launch of Uniswap 3 on Optimism, slated for the summer 2021. (Optimism is a Layer 2 Ethereum solution.).
+Important Note: Currently, the pipe only support moving from YEC to WRY-on-BSC and from WRY-on-BSC to YEC.
 
 ### Cap of $1,000 on Aggregate Flow During Last 24 Hours
 

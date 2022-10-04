@@ -22,9 +22,12 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [SouthXchange](https://main.southxchange.com/) ([YEC/USDT](https://main.southxchange.com/Market/Book/YEC/USDT), [YEC/BTC](https://main.southxchange.com/Market/Book/YEC/BTC), and [WRY/YEC](https://main.southxchange.com/Market/Book/WRY/YEC))
 
+* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), [YEC/ETH](https://safe.trade/trading/yeceth), and [YEC/DGB](https://safe.trade/trading/yecdgb))
+
 * [Hotbit](https://www.hotbit.io/) ([YEC/USDT](https://www.hotbit.io/exchange?symbol=YEC_USDT))
 
-* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), [YEC/ETH](https://safe.trade/trading/yeceth), and [YEC/DGB](https://safe.trade/trading/yecdgb))
+* [Xeggex](https://www.xeggex.com) ([YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/BTC](https://xeggex.com/market/YEC_BTC), and [WRY/YEC](https://xeggex.com/market/WRY_YEC))
+
 
 ### Market Information
 
