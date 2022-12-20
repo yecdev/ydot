@@ -24,9 +24,7 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc), [YEC/ZEC](https://safe.trade/trading/yeczec), [YEC/ETH](https://safe.trade/trading/yeceth), and [YEC/DGB](https://safe.trade/trading/yecdgb))
 
-* [Hotbit](https://www.hotbit.io/) ([YEC/USDT](https://www.hotbit.io/exchange?symbol=YEC_USDT))
-
-* [Xeggex](https://www.xeggex.com) ([YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/BTC](https://xeggex.com/market/YEC_BTC), and [WRY/YEC](https://xeggex.com/market/WRY_YEC))
+* [Xeggex](https://www.xeggex.com) ([YEC/USDT](https://xeggex.com/market/YEC_USDT) and [YEC/BTC](https://xeggex.com/market/YEC_BTC)) <!--, and [WRY/YEC](https://xeggex.com/market/WRY_YEC)) -->
 
 
 ### Market Information
@@ -43,7 +41,18 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 [Buy Wry on SouthXchange](https://main.southxchange.com/Market/Book/WRY/YEC)
 
-Wry contract address on Binance Smart Chain: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6).
+Wry contract addresses:
+
+* Binance Smart Chain: [0x4F0c54c06bC401D02Df557FD65eE30F622155cf6](https://bscscan.com/token/0x4F0c54c06bC401D02Df557FD65eE30F622155cf6)
+
+* Polygon: [0xce87ee0d24a1fb52ab23635643a76690fcbc3fa8](https://polygonscan.com/token/0xce87ee0d24a1fb52ab23635643a76690fcbc3fa8)
+
+* Ethereum: [0x1dff69d892d7a503088522b830eadcba9867f6bd](https://etherscan.io/token/0x1dff69d892d7a503088522b830eadcba9867f6bd)
+
+
+
+
+
 
 ## Mine Ycash
 
