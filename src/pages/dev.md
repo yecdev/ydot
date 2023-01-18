@@ -18,7 +18,8 @@ of YecDev projects.* YecDev develops and maintains:
 - [YecLite](/wallets#yeclite)
 - [YecShell](/wallets/#yecshell)
 - [libyec](https://www.github.com/yecdev)
-- [YecWallet](https://ywallet.app)
+- [YecWallet](https://github.com/ycashfoundation/yecwallet/releases)
+- [YWallet](https://ywallet.app)
 - Yeti (forthcoming)
 
 New contributors are always warmly welcomed! Check out the 
