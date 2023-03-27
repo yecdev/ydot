@@ -50,7 +50,7 @@ Hanh is an independent software developer who was awarded the YDF Core Dev Award
 
 #### Miodrag Popović
 
-Hanh is an independent software developer who was awarded the YDF Core Dev Award in 2021. ([Read award citation](https://ycash.medium.com/ydf-announces-inaugural-recipients-of-the-ydf-core-dev-award-d02f5e29a1da).)
+Miodrag is an independent software developer who was awarded the YDF Core Dev Award in 2021. ([Read award citation](https://ycash.medium.com/ydf-announces-inaugural-recipients-of-the-ydf-core-dev-award-d02f5e29a1da).)
 
 ### Contributors
 
