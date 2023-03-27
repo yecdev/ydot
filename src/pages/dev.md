@@ -17,6 +17,7 @@ project, you can find other Ycash developers on the [Ycash Discord](/forums#disc
 - [StratumPool](https://github.com/ChileBob/StratumPool)
 - [libyec](https://github.com/yodl/libyec)
 - [lightwalletd](https://github.com/yodl/lightwalletd)
+- [source code for y.cash website](https://github.com/yecdev/ydot)
 
 
 
