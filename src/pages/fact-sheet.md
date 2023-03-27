@@ -11,7 +11,7 @@ Key facts about Ycash, as compared to Bitcoin.
 |             | Ycash | Bitcoin |
 | :---------- | :-----: | :-------: |
 | Supply Cap | 21 million | 21 million |
-| Current Supply (Approx.) | 12.25 million | 18.7 million |
+| Current Supply (Approx.) | 13.6 million | 19.3 million |
 | Project Launch | 2019 | 2009 |
 | Date of Genesis Block | 2016 | 2009 |
 | Originating Blockchain | Zcash | Not Applicable |

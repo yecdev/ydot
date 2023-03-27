@@ -42,10 +42,22 @@ Ycash mobile wallet.
 
 ## People
 
+### YDF Core Dev Award Winners
+
+#### Hanh Huynh Huu
+
+Hanh is an independent software developer who was awarded the YDF Core Dev Award in 2021. ([Read award citation](https://ycash.medium.com/ydf-announces-inaugural-recipients-of-the-ydf-core-dev-award-d02f5e29a1da).)
+
+#### Miodrag Popović
+
+Hanh is an independent software developer who was awarded the YDF Core Dev Award in 2021. ([Read award citation](https://ycash.medium.com/ydf-announces-inaugural-recipients-of-the-ydf-core-dev-award-d02f5e29a1da).)
+
+### Contributors
+
 #### Howard Loo
 
 Howard is a software developer and the founder of the Ycash Foundation. His Ycash-related
-software projects include [Wry](/wry) (Wrapped Ycash), [YecLite](/wallets/#yeclite), and [NumberProtector](https://www.numberprotector.com).
+software projects include [Wry](/wry) (Wrapped Ycash).
 He holds an undergraduate degree in computer science from Stanford University
 and a graduate law degree from UC Berkeley. He is a member of the California State Bar.
 

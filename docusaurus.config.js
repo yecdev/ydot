@@ -188,10 +188,6 @@ module.exports = {
               to: 'https://ycash.medium.com',
             },
             {
-              label: 'YecDev on GitHub',
-              href: 'https://github.com/yecdev',
-            },
-            {
               label: 'Ycash Foundation on GitHub',
               href: 'https://github.com/ycashfoundation',
             }

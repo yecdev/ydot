@@ -6,14 +6,6 @@ title: Get Ycash
 
 Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Ycash!
 
-## Sell a Gift Card for Ycash
-
-If you are new to cryptocurrencies, selling a gift card in exchange for
-Ycash is a good way to obtain some Ycash. Private Gift uses Ycash to
-purchase your Amazon and Target gift cards. Follow
-[@Private_Gift on Twitter](https://twitter.com/Private_Gift) for the latest
-offers.
-
 ## Buy Ycash from a Cryptocurrency Exchange
 
 ### Most Active Exchanges
@@ -49,12 +41,15 @@ Wry contract addresses:
 
 * Ethereum: [0x1dff69d892d7a503088522b830eadcba9867f6bd](https://etherscan.io/token/0x1dff69d892d7a503088522b830eadcba9867f6bd)
 
-
-
-
-
-
 ## Mine Ycash
 
 You can also mine Ycash with your computer! All you need is a GPU and an internet connection. To learn more visit the [mining page](/mining).
+
+## Sell a Gift Card for Ycash
+
+If you are new to cryptocurrencies, selling a gift card in exchange for
+Ycash is a good way to obtain some Ycash. Private Gift uses Ycash to
+purchase your Amazon and Target gift cards. Follow
+[@Private_Gift on Twitter](https://twitter.com/Private_Gift) for the latest
+offers.
 
