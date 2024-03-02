@@ -46,14 +46,8 @@ You can also store Ycash on a piece of paper!
 
 [Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android)
 
-[Hebe Wallet](https://hebe.cc/) (Multi-asset wallet for iPhone, Android, and the web)
-
 [Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
 and Android)
-
-[SafePay](https://safepay.safecoin.org/) (Multi-asset mobile wallet for iPhone, Android, and the web)
-
-
 
 <br/>
 

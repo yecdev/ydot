@@ -12,12 +12,15 @@ Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Yca
 
 The following exchanges have the most active markets for buying and selling Ycash:
 
-* [SouthXchange](https://market.southxchange.com/) ([YEC/BTC](https://market.southxchange.com/Market/Book/YEC/BTC), [YEC/USDT](https://market.southxchange.com/Market/Book/YEC/USDT), and [WRY/YEC](https://market.southxchange.com/Market/Book/WRY/YEC))
+* [XeggeX](https://www.xeggex.com) ([YEC/BTC](https://xeggex.com/market/YEC_BTC), [YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/USDC](https://xeggex.com/market/YEC_USDC) and [WRY/YEC](https://xeggex.com/market/WRY_YEC))
 
-* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/trading/yecbtc),[YEC/USDT](https://safe.trade/trading/yecusdt), [YEC/ZEC](https://safe.trade/trading/yeczec), and [YEC/ETH](https://safe.trade/trading/yeceth))
+* [XT](https://www.xt.com) ([YEC/USDT](https://www.xt.com/en/trade/yec_usdt))
 
-* [XeggeX](https://www.xeggex.com) ([YEC/BTC](https://xeggex.com/market/YEC_BTC), [YEC/USDT](https://xeggex.com/market/YEC_USDT), and [WRY/YEC](https://xeggex.com/market/WRY_YEC))
+* [TradeOgre](https://tradeorge.com) ([YEC/BTC](https://tradeogre.com/exchange/YEC-BTC) and [YEC/USDT](https://tradeogre.com/exchange/YEC-USDT))
 
+* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/exchange/YEC-BTC?type=pro), [YEC/USDT](https://safe.trade/exchange/YEC-USDT?type=pro), [YEC/ZEC](https://safe.trade/exchange/YEC-ZEC?type=pro), and [YEC/ETH](https://safe.trade/exchange/YEC-ETHC?type=pro))
+
+* [FreiExchange](https://www.freiex) ([YEC/BTC](https://freiexchange.com/market/YEC/BTC))
 
 ### Market Information
 [Ycash on CoinMarketCap](https://coinmarketcap.com/currencies/ycash/)
@@ -26,19 +29,17 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 ## Buy Wry
 
-[Wry](/wry) is a token on Binance Smart Chain (and coming soon to Ethereum as well). 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on PancakeSwap and then convert it to YEC via the [Wry Pipe](wry#the-wry-pipe) service provided by the Ycash Foundation (limits and fees apply).
+[Wry](/wry) is a token on Ethereum (and BNB Chain). 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on PancakeSwap and then convert it to YEC via the [Wry Pipe](wry#the-wry-pipe) service provided by the Ycash Foundation (limits and fees apply).
 
 
 [Buy Wry (Ethereum ERC-20) on XeggeX](https://xeggex.com/market/WRY_YEC)
-
-[Buy Wry (Native BSC) on SouthXchange](https://market.southxchange.com/Market/Book/WRY/YEC)
-
-[Buy Wry on PancakeSwap](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x4f0c54c06bc401d02df557fd65ee30f622155cf6)
 
 
 Wry contract addresses:
 
 * Ethereum: [0x1dff69d892d7a503088522b830eadcba9867f6bd](https://etherscan.io/token/0x1dff69d892d7a503088522b830eadcba9867f6bd)
+
+* Arbitrum: [0xe8117cACcbE3E100702D80B3523B23308a18C496](https://arbiscan.io/token/0xe8117caccbe3e100702d80b3523b23308a18c496)
 
 * Polygon: [0xce87ee0d24a1fb52ab23635643a76690fcbc3fa8](https://polygonscan.com/token/0xce87ee0d24a1fb52ab23635643a76690fcbc3fa8)
 

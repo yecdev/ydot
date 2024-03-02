@@ -14,13 +14,13 @@ The Ycash Foundation will provide the necessary information (for example viewing
 
 ## The Wry Token
 
-Wry is an ERC-20 token. The Wry contract has been deployed on Binance Smart Chain (BSC) here:
-
-https://bscscan.com/token/0x4f0c54c06bc401d02df557fd65ee30f622155cf6
-
-and has been deployed on Ethereum here:
+Wry is an ERC-20 token. The Wry contract has been deployed on Ethereum here:
 
 https://etherscan.io/token/0x1dff69d892d7a503088522b830eadcba9867f6bd
+
+and has been deployed on Binance Smart Chain (BSC) here:
+
+https://bscscan.com/token/0x4f0c54c06bc401d02df557fd65ee30f622155cf6
 
 To minimize risk, the thoroughly-audited standard OpenZeppelin ERC-20 contract was used with almost no modification.
 
@@ -36,7 +36,7 @@ Search for the address of the Wry contract deployed on BSC:
 
 You can swap between YEC and WRY on SouthXchange and Xeggex:
 
-https://main.southxchange.com/Market/Book/WRY/YEC
+https://market.southxchange.com/Market/Book/WRY/YEC
 
 https://xeggex.com/market/WRY_YEC (trading pair)
 
@@ -44,7 +44,7 @@ https://xeggex.com/pool/WRY_YEC (liquidity pool)
 
 ## The Wry Pipe
 
-_October 2022: Currently, the Wry Pipe is not opperational. To swap between YEC and WRY, please use the exchange swaps referenced immediately above._
+_March 2023: Currently, the Wry Pipe is not opperational. To swap between YEC and WRY, please use the exchange swaps referenced immediately above._
 
 The Ycash Foundation maintains a permissionless, flow-restricted pipe for users to move between YEC and WRY on a limited basis. Use of the pipe currently requires a wallet that can perform shielded transactions, like [YecLite](https://github.com/yecdev/yeclite/releases) (recommended) or YecWallet.
 
