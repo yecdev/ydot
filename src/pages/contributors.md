@@ -74,13 +74,6 @@ Passionate about bringing equal opportunity to marginalized popuations, he organ
 charity donation](https://www.ycash.buzz/post/humans-helping-humans-in-times-of-crisis-rep).
 His Ycash-related software projects include [Ycash Bingo](https://ycash.bingo), the first ever Ycash faucet.
 
-#### Eric Vaughn
-
-Eric is the creator of [YecPages](https://www.yecpages.com), the premier online
-directory for all things Ycash. He is passionate about making Ycash easier to
-use. Eric has authored several Ycash-related
-articles, including ["Money is Shielded Cryptocurrency, and nothing else"](https://yecpages.medium.com/money-is-shielded-cryptocurrency-and-nothing-else-bbedc9540578).
-
 #### Jacob Nulty
 
 Jacob is a Ycash mining enthusiast with a passion for helping new Ycash
