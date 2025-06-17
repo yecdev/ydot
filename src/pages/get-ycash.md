@@ -14,9 +14,9 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 * [TradeOgre](https://tradeogre.com) ([YEC/BTC](https://tradeogre.com/exchange/YEC-BTC) and [YEC/USDT](https://tradeogre.com/exchange/YEC-USDT))
 
-* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/exchange/YEC-BTC?type=pro), [YEC/USDT](https://safe.trade/exchange/YEC-USDT?type=pro), [YEC/ZEC](https://safe.trade/exchange/YEC-ZEC?type=pro), and [YEC/ETH](https://safe.trade/exchange/YEC-ETHC?type=pro))
+* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/exchange/YEC-BTC?type=pro), [YEC/USDT](https://safe.trade/exchange/YEC-USDT?type=pro), and [YEC/ETH](https://safe.trade/exchange/YEC-ETHC?type=pro))
 
-* [XeggeX](https://www.xeggex.com) ([YEC/BTC](https://xeggex.com/market/YEC_BTC), [YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/USDC](https://xeggex.com/market/YEC_USDC) and [WRY/YEC](https://xeggex.com/market/WRY_YEC)) __NOTE: XeggeX recently suffered a security breach in early February 2024. Please exercise caution.__
+* [XeggeX](https://www.xeggex.com) ([YEC/BTC](https://xeggex.com/market/YEC_BTC), [YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/USDC](https://xeggex.com/market/YEC_USDC) and [WRY/YEC](https://xeggex.com/market/WRY_YEC)) __NOTE: XeggeX recently suffered a security breach in early February 2025. Please exercise caution.__
 
 ### Market Information
 [Ycash on CoinMarketCap](https://coinmarketcap.com/currencies/ycash/)
@@ -27,7 +27,7 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 [Wry](/wry) is a token on Ethereum. 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on Uniswap or XeggeX.
 
-[Buy Wry (Ethereum ERC-20) on XeggeX](https://xeggex.com/market/WRY_YEC) __NOTE: XeggeX recently suffered a security breach in early February 2024. Please exercise caution.__
+[Buy Wry (Ethereum ERC-20) on XeggeX](https://xeggex.com/market/WRY_YEC) __NOTE: XeggeX recently suffered a security breach in early February 2025. Please exercise caution.__
 
 
 Wry contract addresses:

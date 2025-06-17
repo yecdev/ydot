@@ -20,8 +20,7 @@ Key facts about Ycash, as compared to Bitcoin.
 | Current Block Size Limit | 2 MB | 1 MB |
 | Target Block Spacing | 1.25 minutes | 10 minutes |
 | Ticker Symbol | YEC | BTC |
-| Current Block Reward | 3.125 YEC | 6.25 BTC |
-| % Block Reward Allocated to Miners | 95% | 100% |
-| % Block Reward Allocated to Nonprofit | 5% | 0% |
+| Current Block Reward | 1.5625 YEC | 3.125 BTC |
+| % Block Reward Allocated to Miners | 100% | 100% |
 | Unencrypted Transactions | Yes | Yes |
 | Encrypted Transactions | Yes | No |
