@@ -36,7 +36,7 @@ You can also store Ycash on a piece of paper!
 
 **[Download YecPaperWallet from GitHub](https://github.com/ycashfoundation/yecpaperwallet/releases)**
 
-(For small amounts of Ycash, check out the [web-based version of YecPaperWallet](https://paper.ycash.xyz).)
+<!--(For small amounts of Ycash, check out the [web-based version of YecPaperWallet](https://paper.ycash.xyz).)-->
 
 <br/>
 
@@ -45,9 +45,6 @@ You can also store Ycash on a piece of paper!
 [Guarda Wallet](https://guarda.com) (Multi-asset wallet for iPhone, Android, desktop, and the web).
 
 [Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android)
-
-[Bitpie Wallet](https://bitpie.com/) (Multi-asset mobile wallet for iPhone
-and Android)
 
 <br/>
 
