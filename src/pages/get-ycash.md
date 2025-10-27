@@ -12,11 +12,9 @@ Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Yca
 
 The following exchanges have the most active markets for buying and selling Ycash:
 
-* [TradeOgre](https://tradeogre.com) ([YEC/BTC](https://tradeogre.com/exchange/YEC-BTC) and [YEC/USDT](https://tradeogre.com/exchange/YEC-USDT))
-
 * [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/exchange/YEC-BTC?type=pro), [YEC/USDT](https://safe.trade/exchange/YEC-USDT?type=pro), and [YEC/ETH](https://safe.trade/exchange/YEC-ETHC?type=pro))
 
-* [XeggeX](https://www.xeggex.com) ([YEC/BTC](https://xeggex.com/market/YEC_BTC), [YEC/USDT](https://xeggex.com/market/YEC_USDT), [YEC/USDC](https://xeggex.com/market/YEC_USDC) and [WRY/YEC](https://xeggex.com/market/WRY_YEC)) __NOTE: XeggeX recently suffered a security breach in early February 2025. Please exercise caution.__
+For additional exchanges, see [Ycash on CoinGecko](https://www.coingecko.com/en/coins/ycash)
 
 ### Market Information
 [Ycash on CoinMarketCap](https://coinmarketcap.com/currencies/ycash/)
@@ -25,10 +23,7 @@ The following exchanges have the most active markets for buying and selling Ycas
 
 ## Buy Wry
 
-[Wry](/wry) is a token on Ethereum. 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on Uniswap or XeggeX.
-
-[Buy Wry (Ethereum ERC-20) on XeggeX](https://xeggex.com/market/WRY_YEC) __NOTE: XeggeX recently suffered a security breach in early February 2025. Please exercise caution.__
-
+[Wry](/wry) is a token on Ethereum. 1 WRY token represents 1 YEC taken out of circulation by the Ycash Foundation. You can buy Wry on Uniswap.
 
 Wry contract addresses:
 
@@ -48,12 +43,4 @@ Wry contract addresses:
 ## Mine Ycash
 
 You can also mine Ycash with your computer! All you need is a GPU and an internet connection. To learn more visit the [mining page](/mining).
-
-## Sell a Gift Card for Ycash
-
-If you are new to cryptocurrencies, selling a gift card in exchange for
-Ycash is a good way to obtain some Ycash. Private Gift uses Ycash to
-purchase your Amazon and Target gift cards. Follow
-[@Private_Gift on Twitter](https://twitter.com/Private_Gift) for the latest
-offers.
 

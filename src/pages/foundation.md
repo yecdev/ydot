@@ -42,10 +42,6 @@ or
 
 `ys1z37kemxfj3qmzr7w9yt29jku7wu3hectwm8smfsycm0ksp7ejnpqcagqql2m8fct5kky6knqa6z`
 
-### WRY-on-BSC
-
-[`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`](https://bscscan.com/address/0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85)
-
 ### BTC
 
 [`bc1qvkdr8r2vdg069d0eywypy3m0t084p3q5nm2s2p`](https://blockchair.com/bitcoin/address/bc1qvkdr8r2vdg069d0eywypy3m0t084p3q5nm2s2p)
@@ -54,10 +50,6 @@ or
 
 [`0x120D677BA30Ea470790debFCAE618Af82814b596`](https://etherscan.io/address/0x120D677BA30Ea470790debFCAE618Af82814b596)
 
-### BSC / BEP-20 tokens
-
-[`0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85`](https://bscscan.com/address/0x191Dc2859128d7F8AA2481d73bedCE201bc4CC85)
-
 ### ZEC
 
 [`t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F`](https://explorer.zcha.in/accounts/t1S387yYe5wzGMkcWLGU9d3mZPsjAuJkh5F)
@@ -65,14 +57,6 @@ or
 or
 
 `zs1mymn2ar4wldwns5v7t239g6s0al3hpp40tlh5k64mn93ymfcuayqquz9jaxy32d33ch96e7usjy`
-
-### BCH
-
-[`qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0`](https://blockchair.com/bitcoin-cash/address/qqupa35j342mgrgwe2fa723almwjzn475ymdta7gt0)
-
-### DGB
-
-[`D8JKVhmXCKuFsuSfYhgp6L2jdvyanXHPbd`](https://digiexplorer.info/address/D8JKVhmXCKuFsuSfYhgp6L2jdvyanXHPbd)
 
 ## Contact
 
