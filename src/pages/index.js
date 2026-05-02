@@ -14,7 +14,7 @@ const features = [
     imageUrl: 'img/fair_pink.svg',
     description: (
       <>
-        95% of newly issued coins go directly to users via the permissionless,
+        100% of newly issued coins go directly to users via the permissionless,
         free-market mining process, a process open to anyone in the world with a GPU and an
         internet connection.
       </>

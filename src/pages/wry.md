@@ -4,6 +4,8 @@ title: Wry
 
 # Wry is Wrapped Ycash
 
+IMPORTANT NOTE: Wry will likely be replaced by a more decentralized alternative by the end of 2026.
+
 ## Introducing Wry
 
 Wry is a wrapped Ycash token for smart contract platforms like Ethereum and Binance Smart Chain. The ticker symbol for Wry is WRY. The ticker symbol for Ycash is YEC.
@@ -42,6 +44,8 @@ https://xeggex.com/market/WRY_YEC (trading pair)
 
 https://xeggex.com/pool/WRY_YEC (liquidity pool)
 
+
+<!--
 ## The Wry Pipe
 
 _March 2023: Currently, the Wry Pipe is not opperational. To swap between YEC and WRY, please use the exchange swaps referenced immediately above._
@@ -126,7 +130,7 @@ In order to use the pipe to move between YEC and WRY-on-BSC, there is a one-time
 4. After 4 confirmations, your coins will be sent to your `YEC OUT` or `WRY OUT` address (minus any fees). (Each time before using the pipe, check this page for the current fees in effect.)
 
 5. Enjoy using Wry!
-
+-->
 ## Mine Wry
 
 The Ycash Foundation has partnered with daPool Mining Pool to give Ycash miners the option to be paid out in WRY instead of YEC. See the [announcement](https://ycash.medium.com/dapool-mining-pool-and-ycash-foundation-bring-gpu-mining-to-defi-e6cbb19d572f) for instructions.
