@@ -34,6 +34,7 @@ Search for the address of the Wry contract deployed on BSC:
 
 `0x4f0c54c06bc401d02df557fd65ee30f622155cf6`
 
+<!--
 ## Exchange Swaps
 
 You can swap between YEC and WRY on SouthXchange and Xeggex:
@@ -44,7 +45,7 @@ https://xeggex.com/market/WRY_YEC (trading pair)
 
 https://xeggex.com/pool/WRY_YEC (liquidity pool)
 
-
+>
 <!--
 ## The Wry Pipe
 
