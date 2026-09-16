@@ -32,5 +32,5 @@ For a well-maintained list of Ycash pools, check out [MiningPoolStats](https://m
 
 ## Articles
 
-["How to Mine Ycash with Gminer"](https://medium.com/@nultinator/how-to-mine-ycash-with-gminer-e80fa871bf4b) by Jacob Nulty
+["How to Mine Ycash: 2025 Guide"](https://ycash.substack.com/p/how-to-mine-ycash-2025-guide) by Jacob Nulty
 

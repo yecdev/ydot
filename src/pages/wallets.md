@@ -44,8 +44,6 @@ You can also store Ycash on a piece of paper!
 
 [Guarda Wallet](https://guarda.com) (Multi-asset wallet for iPhone, Android, desktop, and the web).
 
-[Cobo Wallet](https://cobo.com/) (Multi-asset mobile wallet for iPhone and Android)
-
 <br/>
 
 ## Developer Wallets

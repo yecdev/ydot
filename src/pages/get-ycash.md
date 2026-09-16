@@ -8,15 +8,7 @@ Once you download a [Ycash Wallet](/wallets), it's time to get yourself some Yca
 
 ## Buy Ycash from a Cryptocurrency Exchange
 
-### Most Active Exchanges
-
-The following exchanges have the most active markets for buying and selling Ycash:
-
-* [BitMart](https://bitmart.com) ([YEC/USDT](https://www.bitmart.com/trade/YEC_USDT))
-
-* [SafeTrade](https://www.safe.trade) ([YEC/BTC](https://safe.trade/exchange/YEC-BTC?type=pro), [YEC/USDT](https://safe.trade/exchange/YEC-USDT?type=pro), and [YEC/ETH](https://safe.trade/exchange/YEC-ETHC?type=pro))
-
-For additional exchanges, see [Ycash on CoinGecko](https://www.coingecko.com/en/coins/ycash)
+For a list of exchanges that support Ycash, see [Ycash on CoinGecko](https://www.coingecko.com/en/coins/ycash).
 
 ### Market Information
 [Ycash on CoinMarketCap](https://coinmarketcap.com/currencies/ycash/)

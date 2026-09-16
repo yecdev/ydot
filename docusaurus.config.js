@@ -35,10 +35,6 @@ module.exports = {
               label: "Get Ycash",
               to: "/get-ycash"
             },
-            {
-              label: "Pay With Ycash",
-              to: "/pay-with-ycash"
-            },
           ],
         },
         {
@@ -115,10 +111,6 @@ module.exports = {
             {
               label: 'Get Ycash',
               to: '/get-ycash',
-            },
-            {
-              label: 'Pay With Ycash',
-              to: '/pay-with-ycash',
             },
           ],
         },
